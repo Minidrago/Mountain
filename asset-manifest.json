@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mountain/static/css/main.e6c13ad2.css",
+    "main.js": "/Mountain/static/js/main.2c9bea60.js",
+    "static/js/787.f68247e7.chunk.js": "/Mountain/static/js/787.f68247e7.chunk.js",
+    "index.html": "/Mountain/index.html",
+    "main.e6c13ad2.css.map": "/Mountain/static/css/main.e6c13ad2.css.map",
+    "main.2c9bea60.js.map": "/Mountain/static/js/main.2c9bea60.js.map",
+    "787.f68247e7.chunk.js.map": "/Mountain/static/js/787.f68247e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2c9bea60.js"
+  ]
+}
