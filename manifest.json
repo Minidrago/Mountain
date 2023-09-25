@@ -1,21 +1,21 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "등산",
+  "name": "등산해볼까?",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "/icons/favicon.ico",
+      "type": "image/png",
+      "sizes": "64x64"
     },
     {
-      "src": "logo192.png",
+      "src": "/icons/favicon-96x96.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "96x96"
     },
     {
-      "src": "logo512.png",
+      "src": "/icons/favicon-196x196.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "196x196"
     }
   ],
   "start_url": ".",
