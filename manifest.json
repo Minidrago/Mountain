@@ -3,17 +3,17 @@
   "name": "등산해볼까?",
   "icons": [
     {
-      "src": "/icons/favicon.ico",
+      "src": "/Mountain/icons/favicon.ico",
       "type": "image/png",
       "sizes": "64x64"
     },
     {
-      "src": "/icons/favicon-96x96.png",
+      "src": "/Mountain/icons/favicon-96x96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "/icons/favicon-196x196.png",
+      "src": "/Mountain/icons/favicon-196x196.png",
       "type": "image/png",
       "sizes": "196x196"
     }
