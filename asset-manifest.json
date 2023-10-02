@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Mountain/static/css/main.58ca3ca4.css",
-    "main.js": "/Mountain/static/js/main.10949b5d.js",
+    "main.css": "/Mountain/static/css/main.f8fb20b0.css",
+    "main.js": "/Mountain/static/js/main.4a5e8cbc.js",
     "static/js/787.f68247e7.chunk.js": "/Mountain/static/js/787.f68247e7.chunk.js",
+    "static/media/map-icon.png": "/Mountain/static/media/map-icon.e14224d4db297c29a57f.png",
     "service-worker.js": "/Mountain/service-worker.js",
     "static/media/mountain5.jpg": "/Mountain/static/media/mountain5.7e940027f92a8392ef0b.jpg",
     "static/media/search.png": "/Mountain/static/media/search.ae496b2be9218976bbe9.png",
     "index.html": "/Mountain/index.html",
-    "main.58ca3ca4.css.map": "/Mountain/static/css/main.58ca3ca4.css.map",
-    "main.10949b5d.js.map": "/Mountain/static/js/main.10949b5d.js.map",
+    "main.f8fb20b0.css.map": "/Mountain/static/css/main.f8fb20b0.css.map",
+    "main.4a5e8cbc.js.map": "/Mountain/static/js/main.4a5e8cbc.js.map",
     "787.f68247e7.chunk.js.map": "/Mountain/static/js/787.f68247e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58ca3ca4.css",
-    "static/js/main.10949b5d.js"
+    "static/css/main.f8fb20b0.css",
+    "static/js/main.4a5e8cbc.js"
   ]
 }
